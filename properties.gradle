@@ -1,0 +1,11 @@
+ext {
+    // Can be set to true or false
+    PLATFORM_APP = false
+
+    // Space separated list of devices. Use: HMT1 NAV500
+    DEVICES = "HMT1 NAV500"
+
+    PACKAGE_NAME = "com.realwear.samplewebapp"
+    VERSION_CODE = 1
+    VERSION_NAME = "1.0"
+}
